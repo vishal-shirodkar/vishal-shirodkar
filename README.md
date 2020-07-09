@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+
+## 🔭 I’m currently working on ...Cloud Platforms, MicroServices, Cybersecurity and Hybrid Computing
+
+## 🌱 I’m currently learning ...Quantum Computing , IoT , Deep Learning, AI and Sustainability 
+
+## 👯 I’m looking to collaborate on ... Hackathons
+
+## 💬 Ask me about ... Horlogerie 
+
+## ⚡ Fun fact: ...Love Running and 80's Music
+
+
 <!--
 **vishal-shirodkar/vishal-shirodkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
